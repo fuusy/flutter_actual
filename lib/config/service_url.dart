@@ -1,4 +1,4 @@
-const serviceUrl = 'http://test.baixingliangfan.cn/baixing';
+const baseUrl = 'https://www.wanandroid.com';
 const servicePath = {
-  'homePageContent': serviceUrl + 'wxmini/homePageContent',
+  'homeDaily': baseUrl + '/wenda/list/1/json',
 };
